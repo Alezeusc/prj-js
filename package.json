@@ -1,0 +1,22 @@
+{
+  "name": "projectjs",
+  "version": "0.0.1",
+  "description": "Frist try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alezeusc/prj-js.git"
+  },
+  "author": "Alex C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alezeusc/prj-js/issues"
+  },
+  "homepage": "https://github.com/Alezeusc/prj-js#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
