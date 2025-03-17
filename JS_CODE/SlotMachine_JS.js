@@ -28,15 +28,6 @@ const SYMBOL_VALUES = {
 }
 
 
-
-
-
-
-
-
-
-
-
 const _get_user_input_number = (message,min_value=0,max_value=999,
     error_msg="Invalid input") => {
         while (true) {
