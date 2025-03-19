@@ -1,0 +1,1 @@
+call backend\venv\Scripts\activate.bat

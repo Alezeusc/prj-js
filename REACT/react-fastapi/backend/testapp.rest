@@ -1,0 +1,13 @@
+GET http://localhost:8000/fruits HTTP/1.1
+Accept: application/json
+
+
+###
+###
+
+POST http://localhost:8000/fruits HTTP/1.1
+Content-Type: application/json
+
+{
+    "name":"Apple"
+}
